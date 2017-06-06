@@ -1,0 +1,23 @@
+INSERT INTO ciudad (nombre) VALUES ('Bogota');
+INSERT INTO ciudad (nombre) VALUES ('Medellin');
+INSERT INTO ciudad  (nombre) VALUES ('Cali');
+INSERT INTO ciudad  (nombre) VALUES ('Barranquila');
+INSERT INTO ciudad  (nombre) VALUES ('Cartagena');
+INSERT INTO ciudad  (nombre) VALUES ('Cucuta');
+INSERT INTO ciudad (nombre) VALUES ('Ibague');
+INSERT INTO ciudad  (nombre) VALUES ('Bucaramanga');
+INSERT INTO ciudad  (nombre) VALUES ('Villavicencio');
+INSERT INTO ciudad  (nombre) VALUES ('Santa Marta');
+INSERT INTO ciudad  (nombre) VALUES ('Pereira');
+INSERT INTO ciudad  (nombre) VALUES ('Valledupar');
+INSERT INTO ciudad  (nombre) VALUES ('Monteria');
+INSERT INTO ciudad  (nombre) VALUES ('Manizales');
+INSERT INTO ciudad  (nombre) VALUES ('Armenia');
+INSERT INTO ciudad (nombre) VALUES ('Sincelejo');
+INSERT INTO ciudad (nombre) VALUES ('Popayan');
+INSERT INTO ciudad  (nombre) VALUES ('Riohacha');
+INSERT INTO ciudad  (nombre) VALUES ('Envigado');
+INSERT INTO ciudad  (nombre) VALUES ('Tulua');
+INSERT INTO ciudad  (nombre) VALUES ('Tumaco');
+
+INSERT INTO `categorias` (`id_categoria`, `nombre`) VALUES (NULL, 'Arte'), (NULL, 'Biografia'),(NULL, 'Ciencia'),(NULL, 'Geografia'),(NULL, 'Medio Ambiente'),(NULL, 'Computacion e Informatica'),(NULL, ' Derecho '),(NULL, 'Economia'),(NULL, 'Estilo de vida'),(NULL, 'Deporte'),(NULL, 'Ficcion'),(NULL, 'Humanidades'),(NULL, 'Infantiles'),(NULL, 'Juveniles'),(NULL, 'Literatura'),(NULL, 'Matematicas'),(NULL, 'Medicina'),(NULL, 'Salud'),(NULL, 'Tecnologia'),(NULL, 'Ingenieria');
